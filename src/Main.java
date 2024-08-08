@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 public class Main {
     public static void main(String[] args) throws IOException {
-        new Baek_11048().solution();
+        new Baek_2573().solution();
         return;
     }
 }
